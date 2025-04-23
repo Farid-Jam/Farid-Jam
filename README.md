@@ -8,5 +8,5 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C/C++, Java, JavaScript, Python, x86 Assembly, ARM Assembly, SQL, HTML, CSS
-- 🧰 Tools: VSCode, Git, IntelliJ, Linux
+- 🧰 Tools: VSCode, Git, IntelliJ, Linux, Make, Maven, Gradle
 - 🌐 Frameworks: React, Node.js, Swing
