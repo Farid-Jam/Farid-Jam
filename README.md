@@ -1,4 +1,4 @@
-## Hi, I'm Farid. Welcome to my GitHub profile! 
+## 👋 Hi, I'm Farid. Welcome to my GitHub profile! 
 I'm currently...
 - 🎾 working on a simple pong game made with C++
 - 🌱 learning how to more accessibly incorporate AI into my projects
