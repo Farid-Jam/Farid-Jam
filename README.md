@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farid. Welcome to my GitHub profile! 
 ## 👨‍💻 I'm currently...
-- 🎾 working on a simple [pong game made with C](https://github.com/Farid-Jam/Pong)
+- 🎾 working on a simple [pong game made with C](https://github.com/Farid-Jam/Pong-Game)
 - 🌱 learning how to more accessibly incorporate AI into my projects
 - 🤝 looking to collaborate with local start-ups
 
