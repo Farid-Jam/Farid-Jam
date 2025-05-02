@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farid. Welcome to my GitHub profile! 
 ## 👨‍💻 I'm currently...
-- 🧑‍🎓 working on a **grade predictor** that applie core machine learning techniques
+- 🧑‍🎓 working on a **grade predictor** that applies core machine learning techniques
 - 🌱 learning how to more accessibly incorporate AI into my projects
 - 🤝 looking to collaborate with local start-ups
 
