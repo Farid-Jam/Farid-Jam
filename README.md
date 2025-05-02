@@ -7,6 +7,6 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: C/C++, Java, JavaScript, Python, x86 Assembly, ARM Assembly, SQL, HTML, CSS
+- 💻 Languages: C/C++, Java, JavaScript, Python, x86 Assembly, ARM Assembly, SQL, HTML, CSS, SAS, MATLAB
 - 🧰 Tools: VSCode, Git, IntelliJ, Linux, Make, Maven, Gradle, VIM
 - 🌐 Frameworks: React, Node.js, Swing, SDL
