@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farid. Welcome to my GitHub profile! 
 ## 👨‍💻 I'm currently...
-- ⛈️ Working on a GAN Pokemon Sprite Generator 
+- 🐣 Working on a GAN Pokemon Sprite Generator 
 - 🌱 Learning how to more accessibly incorporate AI into my projects
 - 🤝 Looking to collaborate with local start-ups
 
