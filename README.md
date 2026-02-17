@@ -7,6 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: C++, Java, Python, JavasScript
-- 🧰 Tools: Git, Docker, CMake Mave, Docker, GTest
-- 🌐 Frameworks: React, Node.js, Swing, SDL
+- 💻 Languages: C++, C#, Java, Python, JavasScript, SQL
+- 🧰 DevOps & Tools: Git, GitHub Actions (CI/CD), Docker, Kubernetes, CMake, Maven, GTest
+- 📚 Databases & Caching: PostgreSQL, mySQL, Redis
+- 🌐 Frameworks & Libraries: React, Node.js, Swing, Django, Flask, FastAPI, REST APIs, Celery, PyTorch, TensorFlow
