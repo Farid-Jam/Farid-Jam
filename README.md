@@ -2,7 +2,7 @@
 
 CS student at Ontario Tech (GPA 3.7 · President's List) graduating Dec 2027. I build AI systems, full-stack apps, and low-level performance tools.
 
-Currently interning as an **AI Engineer at IG Wealth Management**, automating PCA workflows with LLM pipelines.
+Currently interning as an **AI Engineer at IG Wealth Management**, automating M&A workflows with LLM pipelines.
 
 ---
 
@@ -20,7 +20,7 @@ Currently interning as an **AI Engineer at IG Wealth Management**, automating PC
 ---
 
 ### 📊 Stats
-![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farid-jam&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farid-Jam&show_icons=true&hide_border=true&theme=default&count_private=true)
 
 ---
 
