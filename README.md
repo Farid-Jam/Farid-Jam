@@ -8,7 +8,7 @@
 ---
 ## 🛠️ Tech Stack
 - 💻 **Languages:** C++, Python, Java, JavaScript, TypeScript, SQL, x86-64 Assembly
-- 🤖 **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLOv8, Whisper, LLM APIs (OpenAI, Gemini, Claude)
+- 🤖 **AI/ML:** PyTorch, Scikit-learn, OpenCV, YOLOv8, Hugging Face Transformers, LLM APIs (OpenAI, Gemini, Claude)
 - 🌐 **Frameworks & Libraries:** React, Node.js, FastAPI, Django, Flask, Celery, REST APIs, Google Test
 - 🧰 **DevOps & Tools:** Docker, GitHub Actions (CI/CD), AWS, Azure, Linux, CMake, Maven, GTest
 - 📚 **Databases & Caching:** PostgreSQL, MySQL, Redis
