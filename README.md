@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Farid. Welcome to my GitHub profile! 
 
-🎓 B.Sc. (Hons) Computer Science @ Ontario Tech University  
-📍 Toronto, ON  
-
-🚀 Incoming Machine Learning Engineer Intern @ Shopify (Fall 2026)
+### 🚀 About Me
+- 🎓 B.Sc. (Hons) Computer Science @ Ontario Tech University
+- 💼 Incoming Machine Learning Engineer Intern @ Shopify (Fall 2026)
+- 🏆 3× Hackathon Winner (BearHacks, Cursor Hackathon, GenAI Genesis)
+- 📍 Toronto, ON
 
 ## 👨‍💻 I'm currently...
 - 🤖 Building and deploying end-to-end ML pipelines and AI-powered applications
