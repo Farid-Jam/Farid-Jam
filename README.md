@@ -1,4 +1,10 @@
 # 👋 Hi, I'm Farid. Welcome to my GitHub profile! 
+
+🎓 B.Sc. (Hons) Computer Science @ Ontario Tech University  
+📍 Toronto, ON  
+
+🚀 Incoming Machine Learning Engineer Intern @ Shopify (Fall 2026)
+
 ## 👨‍💻 I'm currently...
 - 🤖 Building and deploying end-to-end ML pipelines and AI-powered applications
 - ⚡ Pushing the limits of CPU performance with my software rasterizer in C++20
