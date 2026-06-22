@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Farid. Welcome to my GitHub profile!
 
+---
+
 ## 🚀 About Me
 
 - 💼 Incoming Machine Learning Engineer Intern @ Shopify (Fall 2026)
