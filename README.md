@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farid. Welcome to my GitHub profile!
+<h1 align="center">👋 Hi, I'm Farid. Welcome to my GitHub profile!</h1>
 
 ## 🚀 About Me
 
