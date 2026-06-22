@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Farid. Welcome to my GitHub profile!</h1>
+### 👋 Hi, I'm Farid. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
@@ -13,6 +13,8 @@
 - ⚡ Pushing the limits of CPU performance with my software rasterizer in C++20
 - 🧠 Building agentic AI and RAG-powered systems for workflow automation
 - 🤝 Looking to collaborate on open-source AI/ML and high-performance computing projects
+
+---
 
 ## 🛠️ Tech Stack
 
