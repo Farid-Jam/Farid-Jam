@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Farid. Welcome to my GitHub profile!
+# 👋 Hi, I'm Farid. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
