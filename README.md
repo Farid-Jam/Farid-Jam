@@ -2,17 +2,21 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. (Hons) Computer Science @ Ontario Tech University
 - 💼 Incoming Machine Learning Engineer Intern @ Shopify (Fall 2026)
+- 🤖 AI Engineer Intern @ IG Wealth Management
 - 🏆 3× Hackathon Winner (BearHacks, Cursor Hackathon, GenAI Genesis)
-- 📍 Toronto, ON
+- 🎓 B.Sc. (Hons) Computer Science @ Ontario Tech University
+
+---
 
 ## 👨‍💻 I'm currently...
 
 - 🤖 Building and deploying end-to-end ML pipelines and AI-powered applications
 - ⚡ Pushing the limits of CPU performance with my software rasterizer in C++20
-- 💼 Interning as an AI Engineer @ IG Wealth Management, automating PCA workflows
+- 🧠 Building agentic AI and RAG-powered systems for workflow automation
 - 🤝 Looking to collaborate on open-source AI/ML and high-performance computing projects
+
+---
 
 ## 🛠️ Tech Stack
 
