@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-- 🛍️ Current Software Engineer Intern @ Shopify
-- 🤖 Prev AI Engineer @ IG Wealth Management
+- 💻 Software Engineer Intern @ Shopify
+- 🤖 Previously AI Engineer @ IG Wealth Management
 - 🏆 3× Hackathon Winner (BearHacks, Cursor Hackathon, GenAI Genesis)
 - 🎓 B.Sc. (Hons) Computer Science @ Ontario Tech University
 
